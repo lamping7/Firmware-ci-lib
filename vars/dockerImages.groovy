@@ -1,6 +1,6 @@
 // Docker images
 
-def getArch(){
+def getArch() {
     return "px4io/px4-dev-base-archlinux:2018-03-30"
 }
 
